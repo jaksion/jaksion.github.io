@@ -1,17 +1,17 @@
 # Site settings
-title: You Blog
-SEOTitle: 你的博客 | You Blog
+title: Jaksion Blog
+SEOTitle: Jaksion的博客 | Jaksion Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, You Blog, 你的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "你不懂我所付出的是什么？？？"
+keyword: "Jaksion Blog, Jaksion的博客, Jaksion, 唐伟耀, web, java, 数据库"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "hahahahahahha"
+sidebar-about-description: "加油！！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
