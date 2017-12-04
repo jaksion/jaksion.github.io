@@ -98,13 +98,13 @@ friends: [
         title: "jaksion",
         href: "https://jaksion.github.io/"
     },{
-        title: "简书·jaksion",
-        href: "http://www.jianshu.com/users/f5bb5f347cfb/timeline"
+        title: "简书",
+        href: "http://www.jianshu.com/"
     },{
         title: "网易云课堂",
         href: "http://study.163.com/"
     },{
         title: "Emile",
-        href: "http://mail.163.com/js6/main.jsp?sid=iCSaiGHHkeNiNOBvkIHHvKRbtaDnGGPI&df=unknow#module=welcome.WelcomeModule%7C%7B%7D"
+        href: "http://mail.163.com/"
     }
 ]
