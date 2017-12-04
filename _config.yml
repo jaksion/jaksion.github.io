@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+jianshu_username:   f5bb5f347cfb
 
 
 
@@ -95,16 +95,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "jaksion",
+        href: "https://jaksion.github.io/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·jaksion",
+        href: "http://www.jianshu.com/users/f5bb5f347cfb/timeline"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "网易云课堂",
+        href: "http://study.163.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Emile",
+        href: "http://mail.163.com/js6/main.jsp?sid=iCSaiGHHkeNiNOBvkIHHvKRbtaDnGGPI&df=unknow#module=welcome.WelcomeModule%7C%7B%7D"
     }
 ]
