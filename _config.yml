@@ -5,7 +5,7 @@ header-img: img/post-bg-swift2.jpg
 email: 18816285952@163.com
 description: "Skateboarding spirit!!!"
 keyword: "Jaksion Blog,  Jaksion, 唐伟耀, web, java, 数据库"
-url: "http://jaksion.github.io"          # your host, for absolute URL
+url: "http://jaksion.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -21,7 +21,7 @@ RSS: false
 
 zhihu_username:    tang-wei-yao-23
 github_username:   
-jianshu_username:   
+jianshu_username:   f5bb5f347cfb
 
 
 
@@ -83,7 +83,7 @@ service-worker: true
 friends: [
     {
         title: "jaksion",
-        href: "https://jaksion.github.io/"
+        href: "https://jaksion.top"
     },{
         title: "简书",
         href: "http://www.jianshu.com/"
