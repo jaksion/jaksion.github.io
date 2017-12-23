@@ -4,9 +4,9 @@
 > 
 > 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c)
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+### [我的博客在这里 &rarr;](http://jaksion.top)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://raw.githubusercontent.com/jaksion/jaksion.github.io/master/img/readme-home.jpg)
 
 
 ## 使用
@@ -83,7 +83,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/jaksion/jaksion.github.io/master/img/readme-side.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
